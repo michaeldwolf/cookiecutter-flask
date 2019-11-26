@@ -2,7 +2,7 @@
    "name": "pythonfinal",
    "env": {
       "SECRET_KEY": {
-         "description": "SECRET_KEY.",
+         "description": "ajdjax@#",
          "generator": "secret"
       },
       "FLASK_APP": {
